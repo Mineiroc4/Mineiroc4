@@ -11,6 +11,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mineiroc4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mineiroc4&layout=compact&theme=tokyonight)](https://github.com/Mineiroc4/github-readme-stats)"/>
 </div>
+  
 ##
 <div>
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
@@ -21,6 +22,7 @@
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
+  
 ##
 <div>
 <a href= "mailto:devrafaelvarela@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

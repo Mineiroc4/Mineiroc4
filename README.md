@@ -9,13 +9,15 @@
 - 🚀 Aluno do CTD (Certified Tech Developer) curso de carreira co-criado pela Digital House, Mercado Livre, Globant.
 
 ##
+
 <div>
 <a href= "https://github.com/Mineiroc4">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mineiroc4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mineiroc4&theme=tokyonight&layout=compact&)](https://github.com/Mineiroc4/github-readme-stats)"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mineiroc4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mineiroc4&theme=tokyonight&layout=compact&(https://github.com/Mineiroc4/github-readme-stats)"/>
 </div>
-  
+
 ##
+
 <div>
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>

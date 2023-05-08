@@ -4,7 +4,7 @@
 
 - 🌱 Estudante de Java, Spring, Spring Boot, Angular, SQL, MongoDB entre outras tecnologias...
  
-- 👯 Gostaria de contribuir com projetos Back-End ou Full-Stack
+- 👯 Gostaria de contribuir com projetos Back-End ou Full-Stack.
 
 - 🚀 Aluno do CTD (Certified Tech Developer) curso de carreira co-criado pela Digital House, Mercado Livre, Globant.
 

@@ -11,14 +11,6 @@
 ##
 
 <div>
-<a href= "https://github.com/Mineiroc4">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mineiroc4&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&PAT=1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mineiroc4&theme=tokyonight&layout=compact&(https://github.com/Mineiroc4/github-readme-stats&PAT=1)"/>
-</div>
-
-##
-
-<div>
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>

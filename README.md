@@ -1,19 +1,18 @@
 ### 👋 Hello World!! Eu sou o Rafael Varela !!! 👋
 
-- 🔭 Atualmente buscando minha primeira oportunidade de ingressar no mercado tecnológico como Desenvolvedor Back-End ou Full-Stack.
+- 🔭 Atualmente buscando minha primeira oportunidade de ingressar no mercado tecnológico como Desenvolvedor seja Front-End, Back-End ou Full-Stack.
 
-- 🌱 Estudante de Java, Spring, Spring Boot, React, Angular, SQL, Node.js, MongoDB entre outras tecnologias...
+- 🌱 Estudante do curso de Ciência da Computação na Universidade Católica de Santos (4º Semestre).
  
 - 👯 Gostaria de contribuir com projetos Back-End ou Full-Stack.
 
-- 🚀 Aluno do CTD (Certified Tech Developer) curso de carreira co-criado pela Digital House, Mercado Livre, Globant.
+- 🚀 Conhecimento das linguagens Python, Java Script, Java, MySql e alguns frameworks como React, Tailwind, Bootstrap, Spring entre outros.
 
 ##
 
 <div>
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> 
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-<img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>        
 <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>

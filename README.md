@@ -2,9 +2,7 @@
 
 - 🔭 Atualmente buscando minha primeira oportunidade de ingressar no mercado tecnológico como Desenvolvedor seja Front-End, Back-End ou Full-Stack.
 
-- 🌱 Estudante do curso de Ciência da Computação na Universidade Católica de Santos (4º Semestre).
- 
-- 👯 Gostaria de contribuir com projetos Back-End ou Full-Stack.
+- 🌱 Estudante do curso de Ciência da Computação na Universidade Católica de Santos (5º Semestre, 3º Ano).
 
 - 🚀 Conhecimento das linguagens Python, Java Script, Java, MySql e alguns frameworks como React, Tailwind, Bootstrap, Spring entre outros.
 
